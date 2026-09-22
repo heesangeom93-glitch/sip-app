@@ -1,0 +1,99 @@
+/* Sip site — "Morning tea" */
+:root {
+  color-scheme: light dark;
+  --bg: #fbf6ee;
+  --card: #ffffff;
+  --border: #efe4d2;
+  --text: #2b2118;
+  --muted: #816e5d;
+  --accent: #b56d05;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1410;
+    --card: #2a2019;
+    --border: #3b2f24;
+    --text: #f5ead9;
+    --muted: #b8a58c;
+    --accent: #f5a524;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Helvetica Neue", Arial, "Noto Sans KR", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+main, .site-header, .site-footer {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 20px;
+  padding-top: 20px;
+  padding-bottom: 8px;
+}
+.brand {
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: var(--accent);
+  text-decoration: none;
+  margin-right: auto;
+}
+.site-header nav { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.site-header nav a, .site-header nav span { font-size: 0.95rem; }
+.site-header nav span { color: var(--muted); }
+
+h1, h2, h3 { color: var(--accent); line-height: 1.25; }
+h1 { font-size: 1.9rem; margin: 20px 0 8px; }
+h2 { font-size: 1.35rem; margin: 40px 0 12px; }
+h3 { font-size: 1.05rem; margin: 24px 0 8px; }
+p { margin: 0 0 14px; }
+a { color: var(--accent); }
+a:hover { text-decoration-thickness: 2px; }
+.muted, .lede { color: var(--muted); }
+.lede { margin-bottom: 24px; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin: 0 0 14px;
+}
+.card > :first-child { margin-top: 0; }
+.card > :last-child { margin-bottom: 0; }
+
+dl { margin: 0; }
+dt { font-weight: 600; margin-bottom: 4px; }
+dd { margin: 0; }
+dd p:last-child { margin-bottom: 0; }
+
+ul, ol { padding-left: 1.3em; margin: 0 0 14px; }
+li { margin-bottom: 6px; }
+
+hr.lang-divider {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 48px 0 8px;
+}
+
+.site-footer {
+  padding-top: 32px;
+  padding-bottom: 48px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.site-footer nav { display: flex; flex-wrap: wrap; gap: 4px 16px; margin-bottom: 8px; }
