@@ -1292,7 +1292,7 @@ level,day,word,pos,korean,example1,example2,source_list
 37,6,pop,noun,팝 음악,She listens to pop music every day.,My brother loves pop more than rock.,NGSL
 37,7,path,noun,오솔길,We walked along the path by the river.,Which path leads to the beach?,NGSL
 37,7,powerful,adjective,강력한,This is a very powerful computer.,Why is this car so powerful?,NGSL
-37,7,fan,noun,팬,I am a big fan of this band.,The fans waited outside the hotel.,NGSL
+37,7,fan,noun,애호가,I am a big fan of this band.,The fans waited outside the hotel.,NGSL
 37,7,twice,adverb,두 번,I called her twice today.,Have you read this book twice?,NGSL
 37,7,fresh,adjective,신선한,Fresh food costs a little more.,Is the fish fresh today?,NGSL
 38,1,engineer,noun,엔지니어,My father is an engineer.,The engineers fixed the machine quickly.,NGSL
@@ -1606,11 +1606,11 @@ level,day,word,pos,korean,example1,example2,source_list
 46,6,greet,verb,인사하다,She greeted us with a warm smile.,Did he greet you at the door?,NGSL
 46,6,trick,noun,속임수,He used a trick to win the game.,Was that a trick or a mistake?,NGSL
 46,7,paragraph,noun,문단,Read the first paragraph out loud.,How many paragraphs does the essay have?,NGSL
-46,7,pro,noun,프로,He plays golf like a pro.,Is she a pro at tennis?,NGSL
+46,7,pro,noun,전문가,He plays golf like a pro.,Is she a pro at tennis?,NGSL
 46,7,nowhere,adverb,아무 데도,There was nowhere to sit.,We have nowhere to go tonight.,NGSL
 46,7,pray,verb,기도하다,She prays every morning.,Did you pray for good weather?,NGSL
 46,7,servant,noun,하인,The servant opened the door for us.,Did the king have many servants?,NGSL
-47,1,catalog,noun,카탈로그,She picked a dress from the catalog.,Do you have a new catalog?,NGSL
+47,1,catalog,noun,상품 목록,She picked a dress from the catalog.,Do you have a new catalog?,NGSL
 47,1,stamp,noun,우표,I need a stamp for this letter.,Do you collect old stamps?,NGSL
 47,1,envelope,noun,봉투,She put the letter in an envelope.,Do you have a large envelope?,NGSL
 47,1,weekly,adjective,매주의,We have a weekly team meeting.,Do you read the weekly magazine?,NGSL
@@ -1961,7 +1961,7 @@ level,day,word,pos,korean,example1,example2,source_list
 56,7,combination,noun,조합,Red and white is a nice combination.,What combination of colors do you like?,NGSL
 56,7,master,noun,달인,He is a master of the game.,A true master makes it look easy.,NGSL
 57,1,definitely,adverb,확실히,I will definitely come to your party.,Is this definitely the right road?,NGSL
-57,1,session,noun,세션,The training session starts at nine.,Did you enjoy the morning session?,NGSL
+57,1,session,noun,진행 시간,The training session starts at nine.,Did you enjoy the morning session?,NGSL
 57,1,grade,noun,성적,She got a good grade in science.,What grade did you get on the test?,NGSL
 57,1,predict,verb,예측하다,Nobody can predict the weather next week.,Can you predict who will win?,NGSL
 57,1,previously,adverb,이전에,She previously worked at a bank.,Had you previously visited this city?,NGSL
@@ -2163,7 +2163,7 @@ level,day,word,pos,korean,example1,example2,source_list
 62,6,owe,verb,빚지다,I owe you ten dollars.,How much do we owe the bank?,NGSL
 62,6,arrival,noun,도착,We waited for the arrival of the train.,Her arrival made everyone very happy.,NGSL
 62,6,specialist,noun,전문가,You should see a specialist about your back.,She is a specialist in heart disease.,NGSL
-62,6,profile,noun,프로필,Please update your profile with a photo.,Did you read her profile online?,NGSL
+62,6,profile,noun,인물 소개,Please update your profile with a photo.,Did you read her profile online?,NGSL
 62,6,mood,noun,기분,She is in a good mood today.,Why is he in such a bad mood?,NGSL
 62,7,symptom,noun,증상,Pain is the first symptom of the disease.,What symptoms did the patient have?,NGSL
 62,7,sensitive,adjective,민감한,My skin is very sensitive to the sun.,He is sensitive to cold weather.,NGSL
@@ -2204,7 +2204,7 @@ level,day,word,pos,korean,example1,example2,source_list
 63,7,breed,verb,번식하다,Birds breed in the spring.,Do rabbits breed all year?,NGSL
 63,7,brilliant,adjective,뛰어난,She is a brilliant young scientist.,That was a brilliant idea!,NGSL
 63,7,adviser,noun,조언자,She works as a financial adviser.,Who is your adviser at school?,NGSL
-63,7,mode,noun,모드,Switch the camera to night mode.,Which mode should I use?,NGSL
+63,7,mode,noun,작동 방식,Switch the camera to night mode.,Which mode should I use?,NGSL
 64,1,awful,adjective,끔찍한,The weather was awful yesterday.,What an awful smell!,NGSL
 64,1,adjust,verb,조절하다,Please adjust the seat before driving.,Can you adjust the sound a little?,NGSL
 64,1,creative,adjective,창의적인,She is a very creative artist.,What a creative way to solve it!,NGSL
@@ -2413,7 +2413,7 @@ level,day,word,pos,korean,example1,example2,source_list
 69,7,infect,verb,감염시키다,The virus can infect many people quickly.,Did the cut get infected?,NAWL
 69,7,magnetic,adjective,자석의,The magnetic field is strong here.,Is this metal magnetic?,NAWL
 69,7,dose,noun,복용량,Take one dose after each meal.,Did the doctor change your dose?,NAWL
-69,7,elite,noun,엘리트,The elite live in big houses.,Only the elite attended the meeting.,NAWL
+69,7,elite,noun,특권층,The elite live in big houses.,Only the elite attended the meeting.,NAWL
 69,7,sin,noun,죄,Lying is a sin in many religions.,He felt sorry for his sin.,NAWL
 70,1,vocabulary,noun,어휘,Reading improves your vocabulary.,How large is your vocabulary now?,NAWL
 70,1,manuscript,noun,원고,The writer sent her manuscript to the publisher.,Is this manuscript ready for print?,NAWL
@@ -2555,7 +2555,7 @@ level,day,word,pos,korean,example1,example2,source_list
 73,7,unemployed,adjective,실직한,He has been unemployed since last spring.,Unemployed workers can apply for this program.,NAWL
 73,7,toxic,adjective,유독한,The factory released toxic smoke into the air.,Some wild plants are toxic to animals.,NAWL
 73,7,punish,verb,처벌하다,The teacher punished the boy for lying.,Should we punish children for small mistakes?,NAWL
-74,1,processor,noun,프로세서,This new phone has a faster processor.,The processor runs hot under heavy load.,NAWL
+74,1,processor,noun,처리 장치,This new phone has a faster processor.,The processor runs hot under heavy load.,NAWL
 74,1,goodness,noun,선량함,Her goodness touched everyone in the village.,People still believe in basic human goodness.,NAWL
 74,1,legend,noun,전설,The old legend tells of a hidden castle.,Every village has its own legends.,NAWL
 74,1,media,noun,언론,The media reported the story quickly.,She works in the media.,NAWL
@@ -2702,7 +2702,7 @@ level,day,word,pos,korean,example1,example2,source_list
 78,1,impose,verb,부과하다,The government imposed a new tax on cars.,Why did they impose such a high fee?,NGSL
 78,2,yield,verb,산출하다,The test yielded clear results.,Does this land yield good fruit?,NGSL
 78,2,legislation,noun,법률,The new legislation protects workers.,Did the council pass the legislation?,NGSL
-78,2,county,noun,카운티,The county has many small farms.,Which county do you live in?,NGSL
+78,2,county,noun,군(행정 구역),The county has many small farms.,Which county do you live in?,NGSL
 78,2,implement,verb,시행하다,The school will implement a new plan.,When did they implement the change?,NGSL
 78,2,acknowledge,verb,인정하다,He acknowledged his mistake at once.,Did she acknowledge that the plan failed?,NGSL
 78,3,academic,adjective,학업의,Her academic results were excellent.,Is the academic year over yet?,NGSL
@@ -2731,7 +2731,7 @@ level,day,word,pos,korean,example1,example2,source_list
 78,7,core,noun,핵심,Trust is the core of a good relationship.,What is the core of your argument?,NGSL
 78,7,self,noun,자아,She finally found her true self.,Travel helps you discover your real self.,NGSL
 79,1,existence,noun,존재,Few people knew about the company's existence.,Some doubt the existence of true love.,NGSL
-79,1,panel,noun,패널,A panel of experts answered our questions.,Who will sit on the panel today?,NGSL
+79,1,panel,noun,토론자단,A panel of experts answered our questions.,Who will sit on the panel today?,NGSL
 79,1,prime,adjective,가장 중요한,Safety is our prime concern here.,What is the prime reason for this?,NGSL
 79,1,emphasize,verb,강조하다,The teacher emphasized the important points.,Why do you emphasize this rule so much?,NGSL
 79,1,effectively,adverb,효과적으로,She manages her time very effectively.,How can we use this money effectively?,NGSL
@@ -2900,7 +2900,7 @@ level,day,word,pos,korean,example1,example2,source_list
 83,6,universal,adjective,보편적인,Music is a universal language.,Is love a universal human feeling?,NGSL
 83,6,constitute,verb,구성하다,Women constitute half of the staff.,These ten people constitute the committee.,NGSL
 83,6,adequate,adjective,충분한,The room has adequate light for reading.,Is the food supply adequate for everyone?,NGSL
-83,7,consultant,noun,컨설턴트,The company hired a consultant last month.,Does a consultant earn a high salary?,NGSL
+83,7,consultant,noun,상담 전문가,The company hired a consultant last month.,Does a consultant earn a high salary?,NGSL
 83,7,visual,adjective,시각적인,The report includes visual charts.,Do you learn better from visual images?,NGSL
 83,7,ethnic,adjective,민족의,The city has many ethnic restaurants.,They celebrate their ethnic traditions every spring.,NGSL
 83,7,segment,noun,부분,This segment of the road is closed.,Which segment of the market is growing?,NGSL
@@ -3032,7 +3032,7 @@ level,day,word,pos,korean,example1,example2,source_list
 87,4,fluid,noun,유체,The fluid moves through the pipe slowly.,Does the fluid flow faster when hot?,NAWL
 87,5,bound,adjective,틀림없이 ~할,It is bound to rain tomorrow.,Aren't prices bound to rise soon?,NAWL
 87,5,transformation,noun,탈바꿈,The city has undergone a huge transformation.,What caused this transformation in her?,NAWL
-87,5,simulation,noun,시뮬레이션,The computer simulation predicts the weather.,Did you run the simulation again?,NAWL
+87,5,simulation,noun,모의 실험,The computer simulation predicts the weather.,Did you run the simulation again?,NAWL
 87,5,regime,noun,정권,The old regime fell after the war.,Did the new regime change the law?,NAWL
 87,5,intensity,noun,강도,The intensity of the light was too high.,Did the pain intensity go down?,NAWL
 87,6,diagnosis,noun,진단,The doctor gave a clear diagnosis today.,Was the diagnosis correct?,NAWL
@@ -3104,7 +3104,7 @@ level,day,word,pos,korean,example1,example2,source_list
 89,5,defect,noun,결함,The phone had a small defect.,Did you find any defects in the product?,NAWL
 89,5,separation,noun,분리,The two layers show a clear separation.,Keep a clear separation between work and home.,NAWL
 89,5,sufficiently,adverb,충분히,Is the water sufficiently hot for tea?,She was sufficiently prepared for the exam.,NAWL
-89,5,interface,noun,인터페이스,The program has a simple interface.,Do you like the new interface?,NAWL
+89,5,interface,noun,조작 화면,The program has a simple interface.,Do you like the new interface?,NAWL
 89,6,radiation,noun,방사선,Radiation can be dangerous to the body.,The doctor used radiation to treat the cancer.,NAWL
 89,6,embed,verb,끼워 넣다,You can embed a video in the page.,The stone was embedded in the wall.,NAWL
 89,6,utility,noun,유용성,The utility of this tool is clear.,What is the utility of learning grammar?,NAWL
@@ -3366,7 +3366,7 @@ level,day,word,pos,korean,example1,example2,source_list
 97,1,niche,noun,틈새시장,The shop found a niche selling old books.,Every small business needs its own niche.,NAWL
 97,1,affirm,verb,단언하다,The manager affirmed his support for the plan.,She affirmed that the report was true.,NAWL
 97,2,antiquity,noun,고대,These coins date from antiquity.,Writers in antiquity told many famous tales.,NAWL
-97,2,forum,noun,포럼,The city held a forum on public safety.,She asked her question on an online forum.,NAWL
+97,2,forum,noun,공개 토론회,The city held a forum on public safety.,She asked her question on an online forum.,NAWL
 97,2,republic,noun,공화국,The country became a republic long ago.,A republic elects its own leaders.,NAWL
 97,2,comply,verb,규칙을 따르다,All drivers must comply with the speed limit.,Did the factory comply with safety rules?,NAWL
 97,2,audit,noun,회계 감사,The company faces an audit next month.,An audit found several errors in the accounts.,NAWL
@@ -3382,8 +3382,8 @@ level,day,word,pos,korean,example1,example2,source_list
 97,4,compound,noun,화합물,Water is a simple chemical compound.,Which compound did the scientists discover?,NGSL
 97,5,hypothesis,noun,가설,The test supports our hypothesis.,What is your hypothesis for this experiment?,NGSL
 97,5,density,noun,밀도,Water has a higher density than oil.,The city has a high population density.,NGSL
-97,5,module,noun,모듈,Each module of the course takes a week.,This software module handles the payments.,NGSL
-97,5,repertoire,noun,레퍼토리,The singer has a wide repertoire.,She added new songs to her repertoire.,NAWL
+97,5,module,noun,구성 단위,Each module of the course takes a week.,This software module handles the payments.,NGSL
+97,5,repertoire,noun,공연 목록,The singer has a wide repertoire.,She added new songs to her repertoire.,NAWL
 97,5,parameter,noun,매개변수,Set each parameter before running the test.,Which parameters affect the result most?,NAWL
 97,6,denote,verb,나타내다,The red line denotes the average.,What does this symbol denote?,NAWL
 97,6,semantic,adjective,의미의,The two words have a semantic difference.,Is this a semantic or a grammar issue?,NAWL
@@ -3404,14 +3404,14 @@ level,day,word,pos,korean,example1,example2,source_list
 98,2,empirical,adjective,경험적인,We need empirical evidence for this claim.,Is your theory based on empirical data?,NAWL
 98,2,statistical,adjective,통계적인,The statistical analysis took two days.,Do you use statistical methods at work?,NAWL
 98,2,equilibrium,noun,평형 상태,The system reached equilibrium after an hour.,Is the market in equilibrium now?,NAWL
-98,2,node,noun,노드,Each node in the network sends data.,Which node failed last night?,NAWL
+98,2,node,noun,연결점,Each node in the network sends data.,Which node failed last night?,NAWL
 98,3,correlate,verb,상관관계가 있다,Income often correlates with education level.,Do these two factors correlate?,NAWL
 98,3,mortality,noun,사망률,Child mortality has fallen in many countries.,Why is mortality higher in winter?,NAWL
 98,3,antibody,noun,항체,The body makes antibodies to fight the virus.,Do you have antibodies after the illness?,NAWL
 98,3,temporal,adjective,시간의,The study looked at temporal patterns in sales.,Is there a temporal order to these events?,NAWL
 98,3,behavioral,adjective,행동의,The study measured behavioral changes in children.,Are there behavioral differences between the groups?,NAWL
 98,4,mutation,noun,돌연변이,The virus had a new mutation last year.,Can a mutation change eye color?,NAWL
-98,4,spectrum,noun,스펙트럼,Light has a wide spectrum of colors.,Where does this fall on the spectrum?,NAWL
+98,4,spectrum,noun,범위,Light has a wide spectrum of colors.,Where does this fall on the spectrum?,NAWL
 98,4,nucleus,noun,핵,The cell nucleus holds the genes.,Does every cell have a nucleus?,NAWL
 98,4,subset,noun,부분집합,This group is a subset of that one.,Is a small subset enough for the test?,NAWL
 98,4,proposition,noun,명제,Is this proposition true or false?,The proposition seems simple but is deep.,NAWL
@@ -3439,7 +3439,7 @@ level,day,word,pos,korean,example1,example2,source_list
 99,2,aggregate,noun,총합,The aggregate of all sales was high.,What is the aggregate of these scores?,NAWL
 99,2,gradient,noun,기울기,The line has a gradient of two.,Can you calculate the gradient of this line?,NAWL
 99,2,methodology,noun,방법론,Our research methodology was very careful.,What methodology did you use in the study?,NAWL
-99,2,paradigm,noun,패러다임,The new theory changed the scientific paradigm.,Is this a new paradigm for education?,NAWL
+99,2,paradigm,noun,사고의 틀,The new theory changed the scientific paradigm.,Is this a new paradigm for education?,NAWL
 99,3,diagnostic,adjective,진단을 위한,The hospital bought a new diagnostic machine.,Did the diagnostic test show any problems?,NAWL
 99,3,variability,noun,변동성,There is high variability in the data.,Why is there so much variability in prices?,NAWL
 99,3,notation,noun,표기법,Musical notation is hard to read at first.,Which notation does this book use?,NAWL
@@ -3481,7 +3481,7 @@ level,day,word,pos,korean,example1,example2,source_list
 100,3,rhetoric,noun,수사법,His speech was full of empty rhetoric.,Do you study rhetoric at university?,NAWL
 100,3,primer,noun,입문서,This book is a good primer on science.,Did you read the primer before class?,NAWL
 100,4,terminology,noun,전문 용어,Medical terminology is hard to learn.,Do you know any legal terminology?,NAWL
-100,4,motif,noun,모티프,The bird is a motif in her poems.,Which motif appears in this novel?,NAWL
+100,4,motif,noun,중심 소재,The bird is a motif in her poems.,Which motif appears in this novel?,NAWL
 100,4,dissertation,noun,학위 논문,She is writing her dissertation on history.,When is your dissertation due?,NAWL
 100,4,composite,adjective,복합적인,The boat is made of composite materials.,Is this a composite score?,NAWL
 100,4,genetics,noun,유전학,She studies genetics at the university.,Genetics explains why you look like your parents.,NAWL
